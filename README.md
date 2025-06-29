@@ -2,7 +2,7 @@
 
 Mathematical Foundations and Computational Advances in Machine Learning
 
-By Rootflux
+By rootflux
 
 Introduction
 
